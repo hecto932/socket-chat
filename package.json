@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hecto932/socket-chat/issues"
   },
-  "homepage": "https://github.com/hecto932/socket-chat"
+  "homepage": "https://github.com/hecto932/socket-chat",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
