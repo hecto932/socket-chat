@@ -1,0 +1,19 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "My First socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hecto932/socket-chat.git"
+  },
+  "author": "Hector Jose Flores Colmenarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hecto932/socket-chat/issues"
+  },
+  "homepage": "https://github.com/hecto932/socket-chat"
+}
